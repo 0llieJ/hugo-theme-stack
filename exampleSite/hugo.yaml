@@ -2,7 +2,7 @@ baseurl: https://example.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 3
-title: Example Site
+title: The Debug Diary
 copyright: Example Person
 
 # Theme i18n support
@@ -16,7 +16,7 @@ hasCJKLanguage: false
 languages:
     en:
         languageName: English
-        title: Example Site
+        title: The Debug Diary
         weight: 1
         params:
             description: Example description
